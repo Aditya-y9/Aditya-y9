@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Open-Source Projects.<br>I’m currently learning Data Structures and Algorithms.<br>Ask me about C++ , Python , Java .<br>Fun Fact I really like coding because of the logic involved.<br>
+I’m currently working on Open-Source Projects.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I really like coding because of the logic involved.<br>
 
 
 ## 🌐 Socials:
