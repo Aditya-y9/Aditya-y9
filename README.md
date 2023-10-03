@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently working on Open-Source Projects.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I really like coding because of the logic involved.<br>
-
+[![An image of @adityay9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityay9)](https://holopin.io/@adityay9
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_.y9?igshid=OGQ5ZDc2ODk2ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-yedurkar-curious/) 
