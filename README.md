@@ -15,7 +15,7 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-y9&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaY9&bg_color=000000&color=ff0000&line=ff3300&point=ff4d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies
