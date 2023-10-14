@@ -19,6 +19,7 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-y9&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?username=AdityaY9&theme=matrix
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
