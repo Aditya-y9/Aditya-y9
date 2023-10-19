@@ -12,11 +12,8 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaY9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-y9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-y9&bg_color=000000&color=ff0000&line=ff3300&point=ff4d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaY9&bg_color=000000&color=ff0000&line=ff3300&point=ff4d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-y9&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
