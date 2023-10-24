@@ -1,3 +1,8 @@
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="35"><p align="center">
+</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
+
 # 💫 About Me:
 I’m currently working on Open-Source Projects.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I really like coding because of the logic involved.<br>
 ![An image of @adityay9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityay9)
@@ -9,6 +14,7 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdityaY9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+| ![Aditya-y9's Stats](https://github-readme-stats.vercel.app/api?username=Aditya-y9&theme=radical&show_icons=true&hide_border=true&count_private=true) | ![Jishnu2608's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical&hide_border=true)            |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaY9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-y9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
