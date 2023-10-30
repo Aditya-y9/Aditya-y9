@@ -12,6 +12,7 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-y9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-y9&bg_color=000000&color=ff0000&line=ff3300&point=ff4d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
