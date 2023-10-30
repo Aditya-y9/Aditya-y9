@@ -11,7 +11,7 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_.y9?igshid=OGQ5ZDc2ODk2ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-yedurkar-curious/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--[](https://github-readme-stats.vercel.app/api?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-y9\&bg_color=30,FFA500,FFD700\&title_color=fff\&text_color=fff)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-y9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-y9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
