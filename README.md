@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/87cda3ed-a673-4ca7-8c25-27b41ee2ad50" alt="animated" />
+</p>
+<p align="center">
   <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b99afe48-5100-4195-a9c1-1abde736b29c" alt="animated" />
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
