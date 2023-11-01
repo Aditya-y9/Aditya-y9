@@ -3,10 +3,10 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="50" height="50" alt="animated" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/87cda3ed-a673-4ca7-8c25-27b41ee2ad50" alt="animated" height="90" width="270"/>
+<p align="right">
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/87cda3ed-a673-4ca7-8c25-27b41ee2ad50" alt="animated" height="50" width="150" padding-top="1000"/>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5"> -->
 
 <p align="center">
   <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b99afe48-5100-4195-a9c1-1abde736b29c" alt="animated" />
