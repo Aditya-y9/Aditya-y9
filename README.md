@@ -1,6 +1,6 @@
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="35"><p align="center">
-</h3>
+<p align="center">
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/638d8428-8c7f-41fb-8809-c097c28576fe" alt="animated" />
+</p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
 
 # 💫 About Me:
