@@ -1,11 +1,18 @@
+<p align="left" width="20" height="20">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="50" height="50" alt="animated" />
+</p>
+
 <p align="center">
   <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/87cda3ed-a673-4ca7-8c25-27b41ee2ad50" alt="animated" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
+
 <p align="center">
   <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b99afe48-5100-4195-a9c1-1abde736b29c" alt="animated" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 # 💫 About Me:
 I’m currently working on Open-Source Projects.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I really like coding because of the logic involved.<br>
 ![An image of @adityay9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityay9)
