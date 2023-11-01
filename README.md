@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/92bc1f09-eb95-4bf1-86c4-ae9da2135e21" alt="animated" />
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b99afe48-5100-4195-a9c1-1abde736b29c" alt="animated" />
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
 
