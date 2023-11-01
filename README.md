@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/8a012767-a1d0-4707-a266-13078c5c45db" alt="animated" />
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/858a1463-7e4e-4d97-90e9-22d4c36c9990" alt="animated" />
 </p>
+
+
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-y9&theme=2077"  display=block width=100% height=auto  alt="1" >
 
 # 💫 About Me:
