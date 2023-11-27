@@ -1,3 +1,7 @@
+<p align="center" >
+<img src="https://myreadme.vercel.app/api/embed/Aditya-y9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200" height="0.1">
 <p align="left" width="20" height="20">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="50" height="50" alt="animated" />
