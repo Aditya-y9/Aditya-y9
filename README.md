@@ -12,9 +12,7 @@
 </p>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5"> -->
 
-<p align="center">
-  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b99afe48-5100-4195-a9c1-1abde736b29c" alt="animated" />
-</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
 
