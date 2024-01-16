@@ -64,4 +64,22 @@ I’m currently working on Open-Source Projects.<br>I’m currently learning Dat
 
 [![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
 
+### Member
+<p align="center" >
+    <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/f0ac4bf5-6e93-467b-909d-854c02c81099" alt="reimaginedreadme" height=95 width = 95 />
+</p>
+
+<p align="center" >
+Broke Bibliophiles Bombay Chapter
+</p>
+
+### Writer
+<p align="center" >
+  <img src="https://github.com/Aditya-y9/Aditya-y9/assets/122613756/b1833ec9-6743-4a8b-b464-db1fe9148bd4" alt="reimaginedreadme" height=95 width = 95 />
+</p>
+
+<p align="center" >
+Commaful
+</p>
+
 
