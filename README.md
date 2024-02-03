@@ -27,7 +27,7 @@
 
 
 # 💫 About Me:
-I’m currently working as a ML Intern on an Architectural Floor Plan Generator AI using Genetic Algorithms.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I really like coding because of the logic involved.<br>
+I’m currently working as a ML Intern on an Architectural Floor Plan Generator AI using Genetic Algorithms.<br>I’m currently learning Data Structures and Algorithms.<br>Fun Fact I Like coding because its like most people, There's much more to go even when you feel youve solved something.<br>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
