@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
 <p align="center" >
 <img src="https://myreadme.vercel.app/api/embed/Aditya-y9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
