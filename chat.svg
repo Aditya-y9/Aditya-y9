@@ -296,7 +296,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> IT sophomore at VJTI </text>
-    <text x="15" y="50"> Loves ML and Game Development </text>
+    <text x="15" y="50"> ML Intern at DevLaunch </text>
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Currently i'm interning with DevLaunch</text>    
+    <text x="15" y="27">ML Projects >>>> College Assignments</text>    
   </g>
 
 
@@ -345,7 +345,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> I ❤️ to teach machines</text>    
+    <text x="15" y="27"> Further, I ❤️ to teach machines (ML Hehe)</text>    
   </g> 
 
 
@@ -354,7 +354,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="520" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://www.linkedin.com/in/aditya-yedurkar-curious/"></a>https://www.linkedin.com/in/aditya-yedurkar-curious/</text>
+    <rect width="540" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Contact <a xlink:href="https://www.linkedin.com/in/aditya-yedurkar-curious/"></a>https://www.linkedin.com/in/aditya-yedurkar-curious/</text>
   </g>
 </svg>
