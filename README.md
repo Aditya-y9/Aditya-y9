@@ -1,12 +1,14 @@
 [![](https://img.shields.io/badge/Visit_www.adityayedurkar.social-SEO__Hosted-green)](https://www.adityayedurkar.social)
-[![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
+
 [![](https://github.com/Aditya-y9/Aditya-y9/blob/main/chat.svg)](https://www.adityayedurkar.social)
 <p align="center" >
 <img src="https://myreadme.vercel.app/api/embed/Aditya-y9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200" height="0.1">
 <p align="left" width="20" height="20">
-  
+
+[![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
+
 [![first-timers-only](https://img.shields.io/badge/postman-student%20expert-orange?style=for-the-badge&logo=appveyor)](https://badgr.com/public/assertions/GxeiP0w2TyWOgjSPy9uOWg?identity__email=amyedurkar_b22@it.vjti.ac.in)
 
 
