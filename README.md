@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/www.adityayedurkar.social-SEO__Hosted-green)](https://www.adityayedurkar.social)
 [![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
 [![](https://github.com/Aditya-y9/Aditya-y9/blob/main/chat.svg)](https://www.adityayedurkar.social)
 <p align="center" >
