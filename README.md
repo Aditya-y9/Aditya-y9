@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
-[![](https://github.com/Aditya-y9/Aditya-y9/blob/main/chat.svg)](www.adityayedurkar.social)
+[![](https://github.com/Aditya-y9/Aditya-y9/blob/main/chat.svg)](https://www.adityayedurkar.social)
 <p align="center" >
 <img src="https://myreadme.vercel.app/api/embed/Aditya-y9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
