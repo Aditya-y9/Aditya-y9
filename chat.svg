@@ -355,6 +355,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="540" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Contact <a xlink:href="https://www.adityayedurkar.social"></a>aditya@adityayedurkar.social</text>
+    <text x="15" y="27">Contact <a xlink:href="https://www.adityayedurkar.social"></a>    aditya@adityayedurkar.social</text>
   </g>
 </svg>
